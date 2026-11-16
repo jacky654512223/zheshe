@@ -1,0 +1,4 @@
+interface:
+  display_name: "长虹玻璃折射照片风格 SKILL"
+  short_description: "把单张照片制成上下对半的原照与长虹玻璃折射艺术海报"
+  default_prompt: "使用 $zheshe，把我上传的每张照片分别制作成 3:4 的长虹玻璃双联海报。"
